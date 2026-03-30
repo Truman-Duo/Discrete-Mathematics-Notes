@@ -1,6 +1,6 @@
 # LICENSE
 
-© 2026 Truman-Duo。保留所有权利 / All rights reserved.
+© 2025 Truman-Duo。保留所有权利 / All rights reserved.
 
 ## 许可使用条款 / Terms of Use
 
